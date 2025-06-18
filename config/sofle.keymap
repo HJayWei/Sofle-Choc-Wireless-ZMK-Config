@@ -68,7 +68,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans                    &kp END   &kp PAGE_DOWN  &kp PAGE_UP  &kp HOME   &kp BACKSPACE  &kp LBKT
 &trans  &trans  &trans  &trans  &trans  &trans                    &kp LEFT  &kp DOWN       &kp UP       &kp RIGHT  &kp ENTER      &kp RBKT
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans    &trans         &trans       &trans     &trans         &trans
-                &trans  &trans  &trans  &trans  &trans    &to 3   &trans    &to 2          &trans       &trans
+                &trans  &trans  &trans  &trans  &trans    &trans  &trans    &to 2          &trans       &to 3
             >;
         };
 
@@ -93,3 +93,4 @@
         };
     };
 };
+
